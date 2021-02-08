@@ -50,6 +50,12 @@ body{
     padding-bottom: 50px;
 }
 
+.digitado-container > p{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 3em;
+}
+
 #palindromo{
     /* Will Comments this just for now */
     /* visibility: hidden; This property is better than display none, for the element is still in the page, which doesn't affect the flow of the document */
