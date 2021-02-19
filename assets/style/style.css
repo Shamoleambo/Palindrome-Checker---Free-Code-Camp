@@ -59,7 +59,7 @@ body{
 
 #palindromo{
     /* Will Comments this just for now */
-    /* visibility: hidden; This property is better than display none, for the element is still in the page, which doesn't affect the flow of the document */
+    visibility: hidden; /*This property is better than display none, for the element is still in the page, which doesn't affect the flow of the document*/
     font-family: 'Righteous', cursive;
     text-align: center;
     font-size: 3.7em;
